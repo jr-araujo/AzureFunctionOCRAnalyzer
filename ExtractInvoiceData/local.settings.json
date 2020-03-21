@@ -1,0 +1,12 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    //"AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    //"CosmosDBConnection": "AccountEndpoint=https://localhost:8081/;AccountKey=C2y6yDjf5/R+ob0N8A7Cgv30VRDJIWEHLM+4QDU5DE2nQ9nDuVTqobD4b8mGGyPMbIZnqyMsEcaGQy67XIw/Jw==",
+
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=storagectdevora;AccountKey=9r+OLFhYwZ9r2zzMDj86sa5z5k3oKFKCFu/jm0ajptYjyxX/9uO70lH+v+BlX1v1NPLZNbcseRajaDW7AIrERA==;EndpointSuffix=core.windows.net",
+    "CosmosDBConnection": "AccountEndpoint=https://cosmosdb-ctd-evora.documents.azure.com:443/;AccountKey=9VLjuEpKcKwGcIbvP3E7ckUK3MB2uTIaMYPG75A7SV5Fc6sqQO6EjlgSbkoyLaqedIv5F0ZLkjz7eTfIKnPmmw==;",
+
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet"
+  }
+}
